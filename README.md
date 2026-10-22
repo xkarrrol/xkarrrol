@@ -15,5 +15,5 @@ Zajmuję się inżynierią danych przestrzennych, automatyzacją procesów oraz 
 
 ### Kontakt
 
-* **LinkedIn:** [Kliknij Tutaj](linkedin.com/in/karol-wiśniewski-5bba00417)
+* **LinkedIn:** [Kliknij Tutaj]([linkedin.com/in/karol-wiśniewski-5bba00417](https://www.linkedin.com/in/karol-wi%C5%9Bniewski-5bba00417/overlay/contact-info/))
 * **E-mail:** karuswis@gmail.com
