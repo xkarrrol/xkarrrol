@@ -32,7 +32,6 @@ Zajmuję się inżynierią danych przestrzennych, automatyzacją procesów oraz 
 | **[ev-charging-site-selection-GIS](https://github.com/xkarrrol/ev-charging-site-selection-GIS)** | Analiza przestrzenna wyznaczająca optymalne lokalizacje dla stacji ładowania pojazdów elektrycznych na podstawie kryteriów wielokryterialnych. | `QGIS`, `SQL` |
 
 ---
-**Poniżej inne moje projekty**
 
 ### 📬 Sieć
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karol-wiśniewski-5bba00417)
