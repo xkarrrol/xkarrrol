@@ -13,13 +13,13 @@ Zajmuję się inżynierią danych przestrzennych, automatyzacją procesów oraz 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-004875?style=for-the-badge)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-004875?style=for-the-badge&logo=arcgis&logoColor=white)
 
 **Środowisko i Raportowanie:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/Pakiet_Microsoft-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Pakiet_Microsoft-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
