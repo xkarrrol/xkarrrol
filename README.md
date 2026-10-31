@@ -23,14 +23,14 @@ Zajmuję się inżynierią danych przestrzennych, automatyzacją procesów oraz 
 
 ---
 
-### 🚀 Projekty
+### 🚀 Główne Projekty
 
 | Projekt | Opis | Technologie |
 |---------|------|-------------|
 | **[project-spatial-etl](https://github.com/xkarrrol/project-spatial-etl)** | Zautomatyzowany rurociąg ETL do przetwarzania i walidacji jakości danych przestrzennych (GeoPackage/PostGIS). | `Python`, `PostGIS`, `SQL` |
 | **[warsaw-bikeshare-gis](https://github.com/xkarrrol/warsaw-bikeshare-gis)** | Analiza i wizualizacja systemu rowerów miejskich w Warszawie. Mapowanie gęstości stacji i dostępności infrastruktury. | `Python`, `GeoPandas`, `SQL` |
 | **[ev-charging-site-selection-GIS](https://github.com/xkarrrol/ev-charging-site-selection-GIS)** | Analiza przestrzenna wyznaczająca optymalne lokalizacje dla stacji ładowania pojazdów elektrycznych na podstawie kryteriów wielokryterialnych. | `QGIS`, `SQL` |
-
+**Poniżej inne moje projekty**
 ---
 
 ### 📬 Sieć
