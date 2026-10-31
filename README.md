@@ -19,7 +19,7 @@ Zajmuję się inżynierią danych przestrzennych, automatyzacją procesów oraz 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/Pakiet_Microsoft-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Pakiet_Microsoft-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 
 ---
 
